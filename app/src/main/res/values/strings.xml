@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Realm Migration</string>
+	<string name="label" tools:ignore="TypographyEllipsis">Status Output...</string>
+</resources>
